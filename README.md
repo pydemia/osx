@@ -19,5 +19,11 @@ Press RETURN to continue or any other key to abort
 Password:
 
 brew install caskroom/cask/brew-cask
-```
 
+```
+### zsh & oh-my-zsh
+
+```sh
+brew install zsh
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+```
