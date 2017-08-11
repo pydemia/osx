@@ -31,3 +31,8 @@ curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | 
 ## iTerm2
 
 Theme : Argonaut, Brogrammer, Cobalt2, Glacier, ..
+
+
+## R
+brew install r
+defaults write org.R-project.R force.LANG en_US.UTF-8
