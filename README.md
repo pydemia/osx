@@ -27,3 +27,7 @@ brew install caskroom/cask/brew-cask
 brew install zsh
 curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 ```
+
+## iTerm2
+
+Theme : Argonaut, Brogrammer, Cobalt2, Glacier, ..
