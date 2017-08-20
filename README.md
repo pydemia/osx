@@ -36,3 +36,10 @@ Theme : Argonaut, Brogrammer, Cobalt2, Glacier, ..
 ## R
 brew install r
 defaults write org.R-project.R force.LANG en_US.UTF-8
+
+
+## `Fn` keys as Standard
+
+`System Preferences` > `Keyboard` > `Keyboard` > Check `Use F1, F2, etc. keys as standard function keys`  
+
+
